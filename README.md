@@ -2,15 +2,6 @@
 
 This project is a multimodal e-commerce search prototype implemented with a three-layer architecture. It supports text search, simulated voice search, image-similarity search, ranking, evaluation, and optional multimodal and order-search extensions.
 
-## Submission Contents
-
-- `A6-V2_04_ThangNT.md`: editable report with requirements, UML references, implementation, experiments, and web evidence.
-- `A6_Final_Report.pdf`: PDF report for submission.
-- `screenshots/`: six verified website screenshots.
-- `code/`: Python source code, product dataset, sample images, automated tests, and generated results.
-
-The Visual Paradigm `.vpp` project is held separately by the student and must be submitted alongside these files.
-
 ## Requirements
 
 - Python 3.10 or later; Python 3.12 is recommended.
@@ -118,4 +109,3 @@ The assignment handout shows two folders named `data/`: one for repository sourc
 - The dataset is small and controlled; its success rate is not representative of production accuracy.
 - VectorIndex is stored in memory rather than in a vector database.
 - The local web interface and order lookup do not include user authentication.
-- The Visual Paradigm project is supplied separately by the student.
