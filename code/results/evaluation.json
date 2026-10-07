@@ -1,0 +1,77 @@
+{
+  "total_queries": 10,
+  "successful_queries": 10,
+  "success_rate": 1.0,
+  "rows": [
+    {
+      "query": "black running shoes",
+      "mode": "Text",
+      "expected_top1": "Nike Black Running Shoes",
+      "actual_top1": "Nike Black Running Shoes",
+      "success": true
+    },
+    {
+      "query": "running shoes under 110 dollars",
+      "mode": "Text",
+      "expected_top1": "Adidas White Running Shoes",
+      "actual_top1": "Adidas White Running Shoes",
+      "success": true
+    },
+    {
+      "query": "find blue sports shoes",
+      "mode": "Voice",
+      "expected_top1": "Blue Sports Shoes",
+      "actual_top1": "Blue Sports Shoes",
+      "success": true
+    },
+    {
+      "query": "find black headphones",
+      "mode": "Voice",
+      "expected_top1": "Black Wireless Headphones",
+      "actual_top1": "Black Wireless Headphones",
+      "success": true
+    },
+    {
+      "query": "black_leather_bag.png",
+      "mode": "Image",
+      "expected_top1": "Black Leather Bag",
+      "actual_top1": "Black Leather Bag",
+      "success": true
+    },
+    {
+      "query": "green_sports_watch.png",
+      "mode": "Image",
+      "expected_top1": "Green Sports Watch",
+      "actual_top1": "Green Sports Watch",
+      "success": true
+    },
+    {
+      "query": "black shoes + sample image",
+      "mode": "Multimodal",
+      "expected_top1": "Nike Black Running Shoes",
+      "actual_top1": "Nike Black Running Shoes",
+      "success": true
+    },
+    {
+      "query": "nike shoes under 100 dollars",
+      "mode": "Text",
+      "expected_top1": "No result",
+      "actual_top1": "No result",
+      "success": true
+    },
+    {
+      "query": "black shoe",
+      "mode": "Text",
+      "expected_top1": "Nike Black Running Shoes",
+      "actual_top1": "Nike Black Running Shoes",
+      "success": true
+    },
+    {
+      "query": "order O001",
+      "mode": "Order",
+      "expected_top1": "O001",
+      "actual_top1": "O001",
+      "success": true
+    }
+  ]
+}

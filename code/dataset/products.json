@@ -1,0 +1,13 @@
+[
+  {"id": 1, "name": "Nike Black Running Shoes", "category": "shoes", "color": "black", "price": 120, "stock": 10, "description": "Lightweight running shoes with a white sole", "image": "nike_black_running_shoes.png", "popularity": 0.95},
+  {"id": 2, "name": "Adidas White Running Shoes", "category": "shoes", "color": "white", "price": 100, "stock": 15, "description": "Breathable white trainers for daily running", "image": "adidas_white_running_shoes.png", "popularity": 0.90},
+  {"id": 3, "name": "Black Leather Bag", "category": "bag", "color": "black", "price": 80, "stock": 20, "description": "Classic rectangular leather shoulder bag", "image": "black_leather_bag.png", "popularity": 0.82},
+  {"id": 4, "name": "Blue Sports Shoes", "category": "shoes", "color": "blue", "price": 75, "stock": 12, "description": "Blue athletic shoes for gym and outdoor sport", "image": "blue_sports_shoes.png", "popularity": 0.76},
+  {"id": 5, "name": "Red Casual Shoes", "category": "shoes", "color": "red", "price": 65, "stock": 8, "description": "Comfortable red casual sneakers", "image": "red_casual_shoes.png", "popularity": 0.62},
+  {"id": 6, "name": "Brown Travel Bag", "category": "bag", "color": "brown", "price": 95, "stock": 7, "description": "Large brown weekend travel bag", "image": "brown_travel_bag.png", "popularity": 0.67},
+  {"id": 7, "name": "Black Wireless Headphones", "category": "headphones", "color": "black", "price": 150, "stock": 18, "description": "Over-ear wireless audio headphones", "image": "black_wireless_headphones.png", "popularity": 0.88},
+  {"id": 8, "name": "White Wireless Headphones", "category": "headphones", "color": "white", "price": 140, "stock": 13, "description": "White noise-isolating wireless headphones", "image": "white_wireless_headphones.png", "popularity": 0.79},
+  {"id": 9, "name": "Black Smart Watch", "category": "watch", "color": "black", "price": 200, "stock": 9, "description": "Square smart watch with a black strap", "image": "black_smart_watch.png", "popularity": 0.91},
+  {"id": 10, "name": "Green Sports Watch", "category": "watch", "color": "green", "price": 110, "stock": 14, "description": "Rugged green sports watch for training", "image": "green_sports_watch.png", "popularity": 0.71}
+]
+
